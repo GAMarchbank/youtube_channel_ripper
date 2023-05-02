@@ -6,7 +6,7 @@ The youtube channel ripper is a program that allows the user to extract and down
 
 Before you run the program make sure you install the required moduels in you virtual enviroment. 
 
-  python -m pip install -r requirements.txt
+    python -m pip install -r requirements.txt
   
   
 Please see the examples.py file for example as to how the program should be called. Ensure you enter the correct url, save path and Selenium Chrome WebDriver path. 
